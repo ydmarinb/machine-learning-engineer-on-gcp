@@ -27,7 +27,6 @@ models/
 
 # Notebooks y archivos de salida
 .ipynb_checkpoints/
-*.ipynb
 *.html
 
 # Configuraciones y variables de entorno
